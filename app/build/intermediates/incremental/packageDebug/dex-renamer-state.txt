@@ -1,0 +1,4 @@
+#Tue Jun 26 17:29:04 PDT 2018
+base.0=/Users/mimiliu/Desktop/Android Dev/AdvancedAndroid_Shushme/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/mimiliu/Desktop/Android Dev/AdvancedAndroid_Shushme/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
